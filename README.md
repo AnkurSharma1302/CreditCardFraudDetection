@@ -11,9 +11,11 @@ To get started with this project, clone the repository and install the necessary
 
 bash
 Copy code
+```
 git clone https://github.com/yourusername/credit-card-fraud-detection.git
 cd credit-card-fraud-detection
 pip install -r requirements.txt
+```
 ## Usage
 Data Preprocessing: The first step is to preprocess the data, including handling missing values, scaling features, and splitting the dataset into training and testing sets.
 
