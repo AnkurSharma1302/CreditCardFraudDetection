@@ -1,16 +1,5 @@
 # Credit Card Fraud Detection
 
-## Table of Contents
-Introduction
-Dataset
-Installation
-Usage
-Model
-Evaluation
-Results
-Contributing
-License
-Acknowledgments
 ## Introduction
 This project focuses on detecting fraudulent credit card transactions using Logistic Regression. Fraud detection is crucial for financial institutions to minimize losses and protect customers. The aim is to build a robust model that can effectively distinguish between legitimate and fraudulent transactions.
 
